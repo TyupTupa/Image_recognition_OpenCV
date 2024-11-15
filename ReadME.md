@@ -8,6 +8,8 @@ This program uses reference pictire to find similar objects on video stream. Use
 
 The algorithm identifies key points in the image and compares them with points in the reference picture. This is why the algorithm works well on high-contrast frames.
 
+My university logo is taken as a reference image.
+
 ## Installation
 
 Install project using:
